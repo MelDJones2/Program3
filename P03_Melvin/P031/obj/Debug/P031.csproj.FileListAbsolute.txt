@@ -1,0 +1,10 @@
+C:\Users\mrmos\source\repos\P031\P031\obj\Debug\P031.csproj.AssemblyReference.cache
+C:\Users\mrmos\source\repos\P031\P031\obj\Debug\P031.Form1.resources
+C:\Users\mrmos\source\repos\P031\P031\obj\Debug\P031.Properties.Resources.resources
+C:\Users\mrmos\source\repos\P031\P031\obj\Debug\P031.csproj.GenerateResource.cache
+C:\Users\mrmos\source\repos\P031\P031\obj\Debug\P031.csproj.CoreCompileInputs.cache
+C:\Users\mrmos\source\repos\P031\P031\bin\Debug\P031.exe.config
+C:\Users\mrmos\source\repos\P031\P031\bin\Debug\P031.exe
+C:\Users\mrmos\source\repos\P031\P031\bin\Debug\P031.pdb
+C:\Users\mrmos\source\repos\P031\P031\obj\Debug\P031.exe
+C:\Users\mrmos\source\repos\P031\P031\obj\Debug\P031.pdb
